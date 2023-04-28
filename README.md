@@ -44,3 +44,4 @@ int main()
         fclose(ptr);
         return 0;
 }
+![image](https://user-images.githubusercontent.com/132048421/235085049-a19c7fd7-fd45-478f-8206-757a38d44b6e.png)
